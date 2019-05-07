@@ -24,7 +24,6 @@ import android.support.transition.TransitionManager
 import android.transition.Transition
 import android.view.View
 import com.quxianggif.common.callback.SimpleTransitionListener
-import com.quxianggif.core.extension.logDebug
 import com.quxianggif.core.extension.logWarn
 import com.quxianggif.core.extension.showToast
 import com.quxianggif.core.util.AndroidVersion
@@ -35,7 +34,6 @@ import com.quxianggif.network.model.Callback
 import com.quxianggif.network.model.FetchVCode
 import com.quxianggif.network.model.PhoneLogin
 import com.quxianggif.network.model.Response
-import com.quxianggif.network.util.AuthUtil
 import com.quxianggif.util.ResponseHandler
 import kotlinx.android.synthetic.main.activity_login.*
 import org.greenrobot.eventbus.EventBus

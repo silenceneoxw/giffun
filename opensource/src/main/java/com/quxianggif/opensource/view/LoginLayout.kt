@@ -21,7 +21,6 @@ import android.content.Context
 import android.util.AttributeSet
 import android.view.View
 import android.widget.LinearLayout
-import com.quxianggif.core.GifFun
 import kotlinx.android.synthetic.main.activity_login.view.*
 
 /**
