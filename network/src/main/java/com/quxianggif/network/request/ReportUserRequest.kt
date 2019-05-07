@@ -19,7 +19,6 @@ package com.quxianggif.network.request
 
 import com.quxianggif.core.GifFun
 import com.quxianggif.network.model.Callback
-import com.quxianggif.network.model.ReportComment
 import com.quxianggif.network.model.ReportUser
 import com.quxianggif.network.util.NetworkConst
 import okhttp3.Headers

@@ -18,7 +18,6 @@
 package com.quxianggif.network.model
 
 import com.quxianggif.network.request.ReportCommentRequest
-import com.quxianggif.network.request.ReportFeedRequest
 
 /**
  * 举报评论请求的实体类封装。

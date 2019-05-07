@@ -19,7 +19,6 @@ package com.quxianggif.network.request
 
 import com.quxianggif.core.GifFun
 import com.quxianggif.network.model.Callback
-import com.quxianggif.network.model.GetFollowings
 import com.quxianggif.network.model.GetRecommendFollowing
 import com.quxianggif.network.util.NetworkConst
 

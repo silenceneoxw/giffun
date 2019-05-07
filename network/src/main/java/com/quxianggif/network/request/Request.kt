@@ -25,7 +25,6 @@ import com.quxianggif.network.model.Callback
 import com.quxianggif.network.model.OriginThreadCallback
 import com.quxianggif.network.util.AuthUtil
 import com.quxianggif.network.util.NetworkConst
-import com.quxianggif.network.util.SignUtil
 import com.quxianggif.network.util.Utility
 import okhttp3.*
 import java.io.IOException
