@@ -53,7 +53,6 @@ import com.quxianggif.util.ViewUtils
 import com.quxianggif.util.glide.CustomUrl
 import jp.wasabeef.glide.transformations.CropCircleTransformation
 import org.greenrobot.eventbus.EventBus
-import java.lang.Exception
 
 /**
  * 瀑布流列表Feed数据显示的适配器。

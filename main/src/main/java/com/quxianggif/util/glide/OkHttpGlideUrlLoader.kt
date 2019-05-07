@@ -28,7 +28,6 @@ import com.bumptech.glide.load.model.ModelLoaderFactory
 import java.io.InputStream
 
 import okhttp3.OkHttpClient
-import java.util.concurrent.TimeUnit
 
 /**
  * 自定义的OkHttp ModelLoader，用于使用OkHttp的方向来进行Glide网络请求。
